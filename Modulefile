@@ -1,5 +1,5 @@
 name    'nigelkersten-win_desktop_shortcut'
-version '0.0.2'
+version '0.0.3'
 source 'git@github.com:nigelkersten/win_desktop_shortcut-module.git'
 author 'nigelkersten'
 license 'Apache License, Version 2.0'
